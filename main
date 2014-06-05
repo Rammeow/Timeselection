@@ -1,0 +1,5 @@
+#!/bin/sh
+read place
+set $place
+export TZ="$1"/"$2"
+date
