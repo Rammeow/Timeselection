@@ -18,16 +18,16 @@ msgstr ""
 
 #: main_gui_network:46
 msgid "Insert Continent(Space)City:"
-msgstr ""
+msgstr "சேர்க்க கண்டம் (விண்வெளி) நகரம்:"
 
 #: main_gui_network:51
 msgid "Current Time and Date:"
-msgstr ""
+msgstr "தற்போதைய நேரம் மற்றும் தேதி"
 
 #: main_gui_network:52
 msgid "Continue?"
-msgstr ""
+msgstr "தொடர்"
 
 #: main_gui_network:55
 msgid "Error:"
-msgstr ""
+msgstr "பிழை"
